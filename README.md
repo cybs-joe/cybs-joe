@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yussuf Aka Joe</h1>
+<h1 align="center">Hi 👋, I'm Yussuf </h1>
 <h3 align="center">A passionate cs student from egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybs-joe&label=Profile%20views&color=0e75b6&style=flat" alt="cybs-joe" /> </p>
