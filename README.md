@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Yussuf]
+# Hi 👋, I'm Yussuf
 
 ### CS Student @ BUE | Targeting Cybersecurity & Penetration Testing major
 
