@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Yussuf </h1>
-<h3 align="center">A passionate cs student at the BUE</h3>
+# Hi 👋, I'm [Yussuf]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybs-joe&label=Profile%20views&color=0e75b6&style=flat" alt="cybs-joe" /> </p>
+### CS Student @ BUE | Targeting Cybersecurity & Penetration Testing major
 
-- 🌱 I’m currently learning **c++ , advanced python ,few cybersecurity basics**
+---
 
-- 📫 How to reach me **zexit3745@gmail.com**
+🎯 Focused on cybersecurity, systems programming, and building things from scratch.
 
+- 🔭 Currently working on a custom POSIX shell in C++
+- 🌱 Learning basics of Cybersecurity, advanced C++, and Python
+---
 
-<p align="left">
-</p>
+### Projects
+- 🐚 [Shell Project](https://github.com/cybs-joe/Shell-Project) — POSIX shell built from scratch in C++
+- 🏧 ATM Simulator — Terminal-based ATM in C++ with SQLite
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### Languages & Tools
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
     
