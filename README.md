@@ -12,7 +12,7 @@
 
 ### Projects
 - 🐚 [Shell Project](https://github.com/cybs-joe/Shell-Project) — POSIX shell built from scratch in C++
-- 🏧 ATM Simulator — Terminal-based ATM in C++ with SQLite
+- 🏧 [ATM Simulator](https://github.com/cybs-joe/atm-project) — Terminal-based ATM in C++ with SQLite
 
 ---
 
