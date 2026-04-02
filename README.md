@@ -15,6 +15,8 @@
 - 🏧 [ATM Simulator](https://github.com/cybs-joe/atm-project) — Terminal-based ATM in C++ with SQLite
 
 ---
+### Contact
+- zexit3745@gmail.com
 
 ### Languages & Tools
 
