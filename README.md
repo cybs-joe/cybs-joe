@@ -14,8 +14,6 @@
 - 🏧 [ATM Simulator](https://github.com/cybs-joe/atm-project) — Terminal-based ATM in C++ with SQLite
 - 🔓 [Caesar Cipher](https://github.com/cybs-joe/Cipher) -Caesar cipher encrypt/decrypt C++ tool
 ---
-### Contact
-- zexit3745@gmail.com
 
 ### Languages & Tools
 
