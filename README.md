@@ -22,4 +22,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cybs-joe&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybs-joe&layout=compact&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cybs-joe&hide_border=true" />
+</p>
     
